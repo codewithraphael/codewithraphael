@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hey, I'm Raphael
 
-<!--
-**raphaeldotdev/raphaeldotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **AI developer** and **machine learning engineer** with a strong learning foundation in **data science**. I love building intelligent systems that solve real-world problems and exploring how machines can learn, reason, and improve over time.
 
-Here are some ideas to get you started:
+### 🧠 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Build machine learning models using Python and popular libraries
+- 📊 Analyze and visualize data to uncover insights
+- 🧪 Experiment with neural networks and deep learning architectures
+- 🚀 Work on personal AI/ML projects to sharpen my skills and contribute to open-source
+
+### ⚙️ Tools & Technologies
+
+- **Languages**: Python, R, SQL
+- **Libraries/Frameworks**: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebook, Google Colab, Git, VS Code
+- **Other**: GitHub, Streamlit, APIs, Notion
+
+### 📌 Currently Exploring
+
+- Transformer models and NLP
+- End-to-end ML pipelines
+- AI deployment with Streamlit & FastAPI
+- Kaggle competitions & real-world datasets
+
+### 🌍 Find Me Online
+
+- GitHub: [@raphaeldotdev](https://github.com/raphaeldotdev)  
+- LinkedIn: [@codewithraphael](https://linkedin.com/in/codewithraphael)  
+- YouTube: [@codewithraphael](https://youtube.com/@codewithraphael)  
+- Instagram / Threads: [@codewithraphael](https://instagram.com/codewithraphael)
+- Twitter / X: [@codewithraphael](https://x.com/codewithraphael) 
+---
+
+🔭 I’m always learning. Feel free to connect or collaborate!
