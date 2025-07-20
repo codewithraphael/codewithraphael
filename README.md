@@ -25,7 +25,7 @@ I'm an aspiring **AI developer** and **machine learning engineer** with a strong
 
 ### 🌍 Find Me Online
 
-- GitHub: [@raphaeldotdev](https://github.com/raphaeldotdev)  
+- GitHub: [@codewithraphael](https://github.com/codewithraphael)  
 - LinkedIn: [@codewithraphael](https://linkedin.com/in/codewithraphael)  
 - YouTube: [@codewithraphael](https://youtube.com/@codewithraphael)  
 - Instagram: [@codewithraphael](https://instagram.com/codewithraphael)  
