@@ -1,5 +1,11 @@
 ## 👋 Hey, I'm Raphael
 
+{
+"title": "building ai, ml, llm, quant finance",
+"scope": "tuning hyperparameters and chasing SOTA",
+"education": "Bsc. Statistics"
+}
+
 I'm an aspiring **AI developer** and **machine learning engineer** with a strong foundation in **data science**. I enjoy building intelligent systems that solve real-world problems and exploring how machines can learn, reason, and evolve.
 
 ### 🧠 What I Do
