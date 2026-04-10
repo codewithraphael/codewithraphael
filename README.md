@@ -5,9 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=924ACA&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Raphael)](https://git.io/typing-svg)
 
 {
+
 "title": "building ai, ml, llm, quant finance",
+
 "scope": "tuning hyperparameters and chasing SOTA",
+
 "education": "Bsc. Statistics"
+
 }
 
 I'm an aspiring **AI developer** and **machine learning engineer** with a strong foundation in **data science**. I enjoy building intelligent systems that solve real-world problems and exploring how machines can learn, reason, and evolve.
