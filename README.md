@@ -19,7 +19,7 @@ I'm an aspiring **AI developer** and **machine learning engineer** with a strong
 
 - **Languages**: Python, R, SQL  
 - **Libraries & Frameworks**: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools**: Jupyter Notebook, Google Colab, VS Code, Git, GitHub  
+- **Tools**: Jupyter Notebook, Google Colab, VS Code, Git, GitHub, Streamlit
 - **Other**: Streamlit, APIs, Notion, Kaggle
 
 ### 🔍 Currently Exploring
