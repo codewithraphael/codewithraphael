@@ -6,7 +6,7 @@
 
 {
 
-"title": "building ai, ml, llm, quant finance", "scope": "tuning hyperparameters and chasing SOTA", "education": "Bsc. Statistics"
+"title": "building ai, ml, llm, quant finance",     "scope": "tuning hyperparameters and chasing SOTA",     "education": "Bsc. Statistics"
 
 }
 
