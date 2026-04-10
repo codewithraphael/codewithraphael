@@ -2,6 +2,7 @@
   <img src="sakura_midnight.gif" alt="profile banner" width="1500" height="500" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=924ACA&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Raphael)](https://git.io/typing-svg)
 ## 👋 Hey, I'm Raphael
 
 {
