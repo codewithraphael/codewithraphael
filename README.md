@@ -1,8 +1,8 @@
-## 👋 Hey, I'm Raphael
-
 <p align="center">
-  <img src="sakura_midnight.gif" alt="profile banner" />
+  <img src="sakura_midnight.gif" alt="profile banner" width="1500" height="500" />
 </p>
+
+## 👋 Hey, I'm Raphael
 
 {
 "title": "building ai, ml, llm, quant finance",
