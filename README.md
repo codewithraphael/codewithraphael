@@ -62,7 +62,7 @@ I'm an aspiring **AI developer** and **machine learning engineer** with a strong
 ---
 
 <p align="center">
-  <img src="jellyfish.gif" alt="profile banner" width="1500" height="500" />
+  <img src="lab.gif" alt="profile banner" width="1500" height="500" />
 </p>
 
 ---
