@@ -1,5 +1,9 @@
 ## 👋 Hey, I'm Raphael
 
+<p align="center">
+  <img src="sakura_midnight.gif" alt="profile banner" />
+</p>
+
 {
 "title": "building ai, ml, llm, quant finance",
 "scope": "tuning hyperparameters and chasing SOTA",
