@@ -5,7 +5,7 @@
 
 ---
 
-I like statistics, neural networks, human-cognition & hyperparameter optimization 
+I like statistics, machine learning, deep learning, neural networks, human-cognition & hyperparameter optimization 
 
 ---
 
