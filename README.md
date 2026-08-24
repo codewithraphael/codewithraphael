@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="sakura_midnight.gif" alt="profile banner" width="1500" height="500" />
+  <img src="sine_wave.gif" alt="profile banner" width="1500" height="500" />
 </p>
 
 ---
@@ -11,7 +11,7 @@ I like statistics, neural networks, human-cognition & building intelligent syste
 ---
 
 <p align="center">
-  <img src="lab.gif" alt="profile banner" width="1500" height="500" />
+  <img src="box.gif" alt="profile banner" width="1500" height="500" />
 </p>
 
 ---
