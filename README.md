@@ -1,7 +1,7 @@
 ### `~ $ whoami`
 
 ```text
-I like statistics, neural networks, human-cognition & building intelligent systems
+raphael - i like statistics, neural networks, human-cognition & building intelligent systems
 ```
 
 ### `~ $ ls projects --sort=stars`
@@ -37,15 +37,6 @@ jupyter notebook
 2026-07-26  numeria
 2026-07-23  deep-learning
 2026-07-17  gravitas
-```
-
-### `~ $ stats`
-
-```text
-repositories   7
-stars          9
-followers      31
-contributions  773 (last 12 months)
 ```
 
 ### `~ $ contact`
